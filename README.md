@@ -1,8 +1,10 @@
 # IDM-Industries---Bulletin
+
 ## What is Bulletin?
 ### Bulletin is a planning and time management tool that was developed by students for students. As current students, we find that planning and time management in college is indubitably vital to doing well in school. Bulletin strives to be Towson's most successful student-created organizational and planning company. Successful in helping students apply effective time management and organizational skills in their daily life, making their lives easier, and helping to achieve their best academic effort.
 ## What does Bulletin Offer?
 ### Bulletin offers a wide variety of planning and time management tools. These tools include a student planner, student calendar, student-run organization database, and a student grade calculator. 
+
 ## Installation Instructions Windows:
 #### 1.) Download WAMP from the following link https://sourceforge.net/projects/wampserver/
 #### 2.) Once the download is done, double click on the .exe file
@@ -28,7 +30,7 @@
 #### 8.) Click close and move to trash
 
 ## How to Run Bulletin on Windows?
-#### 1.) Go to C directory or the directory you saved the WAMP folder in, click wamp64, then locate the www file and then create a folder inside the www folder. Then populate the folder with the files for our application found on github.
+#### 1.) Go to C directory or the directory you saved the WAMP folder in, click wamp64, then locate the www file and then create a folder inside the www folder. Then populate the folder with the files for our application found on github (https://github.com/gberge5/IDM-Industries---Bulletin).
 #### 2.) Click show hidden icons at the bottom right of your screen
 #### 3.) Click on the logo with a W
 #### 4.) Click start all services
@@ -41,7 +43,7 @@
 ## How to Run Bulletin on Mac:
 #### 1.) Load up applications folder
 #### 2.) Locate MAMP folder
-#### 3.) Locate htdocs folder and populate it with Bulletins files on our github.
+#### 3.) Locate htdocs folder and populate it with Bulletins files on our github (https://github.com/gberge5/IDM-Industries---Bulletin).
 #### 3.) Click MAMP logo 
 #### 4.) Click start server
 #### 5.) Click tools at top of screen, then click PHPMYADMIN to access and manage database records
